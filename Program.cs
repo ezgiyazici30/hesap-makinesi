@@ -63,6 +63,6 @@ class Program
 
         } while (devam == "evet"); 
 
-        Console.WriteLine("Programdan çıkılıyor...");
+        Console.WriteLine("Çıkış Yapılıyor.");
     }
 }
